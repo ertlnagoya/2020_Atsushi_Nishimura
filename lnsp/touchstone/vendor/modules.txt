@@ -1,0 +1,94 @@
+# github.com/gogo/protobuf v0.0.0-20171007142547-342cbe0a0415
+github.com/gogo/protobuf/gogoproto
+github.com/gogo/protobuf/proto
+github.com/gogo/protobuf/protoc-gen-gogo/descriptor
+github.com/gogo/protobuf/sortkeys
+# github.com/golang/protobuf v1.2.0
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/timestamp
+# github.com/google/uuid v1.1.1
+github.com/google/uuid
+# github.com/inconshreveable/mousetrap v1.0.0
+github.com/inconshreveable/mousetrap
+# github.com/pborman/uuid v1.2.1
+## explicit
+github.com/pborman/uuid
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/sirupsen/logrus v1.7.0
+## explicit
+github.com/sirupsen/logrus
+# github.com/spf13/cobra v0.0.5
+## explicit
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.3
+github.com/spf13/pflag
+# golang.org/x/net v0.0.0-20190328230028-74de082e2cca
+golang.org/x/net/context
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+golang.org/x/net/internal/timeseries
+golang.org/x/net/trace
+# golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
+## explicit
+# golang.org/x/sys v0.0.0-20191026070338-33540a1f6037
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.1-0.20181227161524-e6919f6577db
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
+## explicit
+# google.golang.org/genproto v0.0.0-20170731182057-09f6ed296fc6
+google.golang.org/genproto/googleapis/rpc/status
+# google.golang.org/grpc v1.13.0
+## explicit
+google.golang.org/grpc
+google.golang.org/grpc/balancer
+google.golang.org/grpc/balancer/base
+google.golang.org/grpc/balancer/roundrobin
+google.golang.org/grpc/codes
+google.golang.org/grpc/connectivity
+google.golang.org/grpc/credentials
+google.golang.org/grpc/encoding
+google.golang.org/grpc/encoding/proto
+google.golang.org/grpc/grpclog
+google.golang.org/grpc/internal
+google.golang.org/grpc/internal/backoff
+google.golang.org/grpc/internal/channelz
+google.golang.org/grpc/internal/grpcrand
+google.golang.org/grpc/keepalive
+google.golang.org/grpc/metadata
+google.golang.org/grpc/naming
+google.golang.org/grpc/peer
+google.golang.org/grpc/resolver
+google.golang.org/grpc/resolver/dns
+google.golang.org/grpc/resolver/passthrough
+google.golang.org/grpc/stats
+google.golang.org/grpc/status
+google.golang.org/grpc/tap
+google.golang.org/grpc/transport
+# gopkg.in/yaml.v2 v2.2.2
+## explicit
+gopkg.in/yaml.v2
+# k8s.io/client-go v11.0.0+incompatible
+## explicit
+# k8s.io/cloud-provider v0.0.0-20190624091323-9dc79cf4f9c7
+## explicit
+# k8s.io/cri-api v0.0.0-20190620080320-8a10675a4b1e
+## explicit
+k8s.io/cri-api/pkg/apis/runtime/v1alpha2
+# k8s.io/klog v0.3.3
+## explicit
+# k8s.io/kubernetes v1.14.0
+## explicit
+# k8s.io/utils v0.0.0-20190607212802-c55fbcfc754a
+## explicit

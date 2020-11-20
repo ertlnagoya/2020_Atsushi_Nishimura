@@ -1,0 +1,6 @@
+cri: ["crio"]
+oci: ["runc","runsc","kata","rune","crun"]
+filter:
+- systemcall
+runs: 1 
+output: systemcall.json

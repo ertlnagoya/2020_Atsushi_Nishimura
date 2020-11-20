@@ -1,2 +1,0 @@
-# 2020_Atsushi_Nishimura
-卒業研究のためのフォルダまとめ

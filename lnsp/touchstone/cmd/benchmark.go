@@ -46,6 +46,7 @@ var benchmarkCmd = &cobra.Command{
 			if err != nil {
 				logrus.WithError(err).Fatal("failed build matrix")
 			}
+			//fmt.Printf("\n%v\n",matrix)
 			results, err := matrix.Run()
 			if err != nil {
 				logrus.WithError(err).Fatal("failed matrix run")

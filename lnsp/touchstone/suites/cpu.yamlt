@@ -1,0 +1,6 @@
+cri: ["containerd", "crio"]
+oci: ["runc", "runsc"]
+filter:
+- performance.cpu
+runs: 20
+output: performance.json

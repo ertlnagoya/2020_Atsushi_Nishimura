@@ -11,9 +11,9 @@ var Performance = []benchmark.Benchmark{
 	&MemoryTime{},
 	&MemoryMinAvgLatency{},
 	&MemoryMaxLatency{},
-	//&CPUTime{},
-	//&DiskRead{},
-	//&DiskWrite{},
+	&CPUTime{},
+	&DiskRead{},
+	&DiskWrite{},
 }
 
 const defaultSysbenchImage = "lnsp/sysbench:latest"
